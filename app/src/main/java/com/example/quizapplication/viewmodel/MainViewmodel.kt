@@ -25,8 +25,6 @@ class MainViewmodel(application: Application): AndroidViewModel(application),
     val quizDataList: MutableList<QuizModel> = mutableListOf()
 
     fun getQuizDataList(context: Context):List<QuizModel> {
-//        val inputStream =
-//            HGApplication.application.resources.openRawResource(com.homegenius.android.R.raw.time_zone_information)
         val inputStream = context.resources.openRawResource(com.example.quizapplication.R.raw.question)
 
         val writer = StringWriter()

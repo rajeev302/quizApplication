@@ -1,10 +1,10 @@
 [
   {
-    "question": "Which direction sun rises in?",
-    "option1": "south",
-    "option2": "north",
-    "option3": "west",
-    "option4": "east"
+    "question": "How many quarters are there in an NFL football game? ",
+    "option1": "1",
+    "option2": "2",
+    "option3": "3",
+    "option4": "4"
   },
   {
     "question": "Which direction sun rises in?",
@@ -14,24 +14,24 @@
     "option4": "east"
   },
   {
-    "question": "Which direction sun rises in?",
-    "option1": "south",
-    "option2": "north",
-    "option3": "west",
-    "option4": "east"
+    "question": "Which of these run on petrol",
+    "option1": "Bicycle",
+    "option2": "MotorBike",
+    "option3": "Bullock cart",
+    "option4": "None of these"
   },
   {
-    "question": "Which direction sun rises in?",
-    "option1": "south",
-    "option2": "north",
-    "option3": "west",
-    "option4": "east"
+    "question": "Java is :-",
+    "option1": "Pass by value",
+    "option2": "Pass by reference",
+    "option3": "None",
+    "option4": "Both"
   },
   {
-    "question": "Which direction sun rises in?",
-    "option1": "south",
-    "option2": "north",
-    "option3": "west",
-    "option4": "east"
+    "question": "What is the name of the note on guitar which comes on 3rd fret of A string",
+    "option1": "A",
+    "option2": "B",
+    "option3": "C",
+    "option4": "D"
   }
 ]

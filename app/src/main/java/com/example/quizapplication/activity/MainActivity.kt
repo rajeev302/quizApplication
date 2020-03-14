@@ -38,7 +38,6 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupClickListener(){
         submitButton.setOnClickListener {
-            Toast.makeText(this, "submit button clicked", Toast.LENGTH_SHORT).show()
             adapter.isEditMode = false
             adapter.notifyDataSetChanged()
         }
